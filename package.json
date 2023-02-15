@@ -1,0 +1,23 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "Hexlet test task",
+  "main": "script.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logos722/Hexlet-test-module.git"
+  },
+  "author": "logos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logos722/Hexlet-test-module/issues"
+  },
+  "homepage": "https://github.com/logos722/Hexlet-test-module#readme"
+}
