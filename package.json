@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/logos722/Hexlet-test-module/issues"
   },
-  "homepage": "https://github.com/logos722/Hexlet-test-module#readme"
+  "homepage": "https://github.com/logos722/Hexlet-test-module#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
 }
